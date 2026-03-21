@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Installer"
+  short_description: "Install MCP servers for coding agents"
+  default_prompt: "Use $mcp-installer to install or update this MCP server for the requested coding agent and scope."
